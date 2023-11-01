@@ -1,0 +1,107 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.2,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"a89eae928",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "College Name",
+      "Companies worked at",
+      "Degree",
+      "Designation",
+      "Email Address",
+      "Graduation Year",
+      "Location",
+      "Name",
+      "Skills",
+      "UNKNOWN",
+      "Years of Experience"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.5212765957,
+    "ents_p":0.5903614458,
+    "ents_r":0.4666666667,
+    "ents_per_type":{
+      "Name":{
+        "p":0.95,
+        "r":0.8260869565,
+        "f":0.8837209302
+      },
+      "Location":{
+        "p":0.5555555556,
+        "r":0.4285714286,
+        "f":0.4838709677
+      },
+      "Email Address":{
+        "p":0.75,
+        "r":0.8823529412,
+        "f":0.8108108108
+      },
+      "Companies worked at":{
+        "p":0.4117647059,
+        "r":0.3636363636,
+        "f":0.3862068966
+      },
+      "College Name":{
+        "p":0.7307692308,
+        "r":0.5757575758,
+        "f":0.6440677966
+      },
+      "Skills":{
+        "p":0.2222222222,
+        "r":0.0714285714,
+        "f":0.1081081081
+      },
+      "Designation":{
+        "p":0.6333333333,
+        "r":0.3958333333,
+        "f":0.4871794872
+      },
+      "Degree":{
+        "p":0.7692307692,
+        "r":0.7407407407,
+        "f":0.7547169811
+      },
+      "Years of Experience":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "Graduation Year":{
+        "p":0.4347826087,
+        "r":0.4545454545,
+        "f":0.4444444444
+      }
+    },
+    "tok2vec_loss":851.2498093316,
+    "ner_loss":1551.7014275755
+  }
+}
