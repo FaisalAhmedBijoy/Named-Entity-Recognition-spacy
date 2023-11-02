@@ -1,0 +1,107 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.2,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"a89eae928",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "College Name",
+      "Companies worked at",
+      "Degree",
+      "Designation",
+      "Email Address",
+      "Graduation Year",
+      "Location",
+      "Name",
+      "Skills",
+      "UNKNOWN",
+      "Years of Experience"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.5943060498,
+    "ents_p":0.6761133603,
+    "ents_r":0.5301587302,
+    "ents_per_type":{
+      "Name":{
+        "p":0.9473684211,
+        "r":0.7826086957,
+        "f":0.8571428571
+      },
+      "Email Address":{
+        "p":0.7619047619,
+        "r":0.9411764706,
+        "f":0.8421052632
+      },
+      "Designation":{
+        "p":0.6279069767,
+        "r":0.5625,
+        "f":0.5934065934
+      },
+      "Companies worked at":{
+        "p":0.7142857143,
+        "r":0.3246753247,
+        "f":0.4464285714
+      },
+      "College Name":{
+        "p":0.6896551724,
+        "r":0.6060606061,
+        "f":0.6451612903
+      },
+      "Skills":{
+        "p":0.7,
+        "r":0.5,
+        "f":0.5833333333
+      },
+      "Location":{
+        "p":0.5833333333,
+        "r":0.4,
+        "f":0.4745762712
+      },
+      "Degree":{
+        "p":0.6388888889,
+        "r":0.8518518519,
+        "f":0.7301587302
+      },
+      "Years of Experience":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "Graduation Year":{
+        "p":0.5263157895,
+        "r":0.4545454545,
+        "f":0.487804878
+      }
+    },
+    "tok2vec_loss":1275.5939886933,
+    "ner_loss":2625.8402396974
+  }
+}

@@ -1,0 +1,26 @@
+[38;5;4m[i] Using CPU[0m
+[1m
+================================== Results ==================================[0m
+
+TOK     100.00
+NER P   67.61 
+NER R   53.02 
+NER F   59.43 
+SPEED   9161  
+
+[1m
+=============================== NER (per type) ===============================[0m
+
+                          P       R       F
+Name                  94.74   78.26   85.71
+Email Address         76.19   94.12   84.21
+Designation           62.79   56.25   59.34
+Companies worked at   71.43   32.47   44.64
+College Name          68.97   60.61   64.52
+Skills                70.00   50.00   58.33
+Location              58.33   40.00   47.46
+Degree                63.89   85.19   73.02
+Years of Experience    0.00    0.00    0.00
+Graduation Year       52.63   45.45   48.78
+
+[38;5;2m[+] Saved results to logs\test_results.json[0m
