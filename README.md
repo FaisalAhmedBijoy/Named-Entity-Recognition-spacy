@@ -29,6 +29,9 @@ The environment used for this project is as follows:
 
 ## Approach
 The approach used for this project is as follows:
+* Exploratory Data Analysis (EDA) on resume data
+
+    [EDA resume data notebook](EDA_resume.ipynb)
 * The dataset is first preprocessed to remove the unnecessary columns and rows.
     ```bash
     python data_preprocessing.py
