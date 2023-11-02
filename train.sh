@@ -1,1 +1,1 @@
-python -m spacy train config.cfg --output ./output --paths.train data/spacy_format/train_data.spacy --paths.dev data/spacy_format/test_data.spacy 
+python -m spacy train config.cfg --output models --paths.train data/spacy_format/train_data.spacy --paths.dev data/spacy_format/test_data.spacy 
