@@ -19,9 +19,11 @@ The dataset used for this project is the [Kaggle Resume Dataset](https://www.kag
 
 ## Environment
 The environment used for this project is as follows:
-    ```bash
-    pip install -r requirements.txt
-    ``
+
+ ```bash
+ pip install -r requirements.txt
+ ```
+ 
 
 
 
