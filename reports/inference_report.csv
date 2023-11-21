@@ -1,0 +1,315 @@
+Predicted_Entity,Entity_GT,Text_GT,Predicted_Text,Correct_Prediction
+Skills,Graduation Year,"ty  April 2004  SKILLS  Storekeeping / Inventory Management / Purchase (2 years), People & Time Management (2 years)  ADDITIONAL INFORMATION  Competencies  ❖ Effective communications skills, excellent interpersonal skills, good time management skills, results-oriented individual and a very good team player. ❖ Sincere, hardworking and willing to take up",2004,False
+College Name,Graduation Year,iology in Microbiology  S.N.G Colleg,2004,False
+Degree,Graduation Year,"r, Qatar.    EDUCATION  B.Sc. in Micr",2004,False
+Location,Graduation Year,IT Pv,2004,False
+Location,Graduation Year,tute -,2004,False
+College Name,Graduation Year,"utive""  Orange City Hospital & Research I",2004,False
+Designation,Graduation Year,"IENCE  ""Store E",2004,False
+Designation,Designation,Store Executive,Store Executive,True
+Email Address,Email Address,indeed.com/r/Vineeth-Vijayan/ ee84e7ea0695181f,indeed.com/r/Vineeth-Vijayan/ ee84e7ea0695181f,True
+Location,Location,Nagpur,Nagpur,True
+College Name,College Name,Orange City Hospital & Research Institute,Orange City Hospital & Research Institute,True
+Designation,Designation,Store Executive,Store Executive,True
+Name,Name,Vineeth Vijayan,Vineeth Vijayan,True
+Skills,Skills,"Operating Systems Windows and Unix Configuration management tools TFS and VSTS Programming Languages VB, ASP, VB.net, C#, JavaScript, Jquery and Angular JS (Starter), CRM Frontend HTML and .Net Middleware MVC and WCF Database SQL Server and Oracle Content Migration tools Metalogix and Sharegate Automation PowerShell and VSTS  DOMAIN EXPERIENCE Insurance 10 Years Engineering 3 Years Banking 2.5 Years",".NET (Less than 1 year), ASP (Less than 1 year), DATABASE (Less than 1 year), MS SQL SERVER (Less than 1 year), SQL (Less than 1 year)",False
+Skills,Skills,"NET (Less than 1 year), ASP (Less than 1 year), DATABASE (Less than 1 year), MS SQL SERVER (Less than 1 year), SQL (Less than 1 year)",".NET (Less than 1 year), ASP (Less than 1 year), DATABASE (Less than 1 year), MS SQL SERVER (Less than 1 year), SQL (Less than 1 year)",False
+Graduation Year,Graduation Year,1999,1999,True
+College Name,College Name,Nagarjuna university,Nagarjuna university,True
+Degree,Degree,"B.Sc in Maths, Physics and Computers","B.Sc in Maths, Physics and Computers",True
+Graduation Year,Graduation Year,2002,2002,True
+College Name,College Name,affiliated college of Andhra University,affiliated college of Andhra University,True
+Degree,Degree,M.C.A,M.C.A,True
+Location,Location,Hyderabad,Hyderabad,True
+Companies worked at,Skills,IBM,".NET (Less than 1 year), ASP (Less than 1 year), DATABASE (Less than 1 year), MS SQL SERVER (Less than 1 year), SQL (Less than 1 year)",False
+Companies worked at,Skills,CSC,".NET (Less than 1 year), ASP (Less than 1 year), DATABASE (Less than 1 year), MS SQL SERVER (Less than 1 year), SQL (Less than 1 year)",False
+Designation,Designation,Senior Professional Technology Analyst,Senior Professional Technology Analyst,True
+Designation,Designation,Technical Architect,Technical Architect,True
+Email Address,Email Address,indeed.com/r/Suresh- Kanagala/04b36892f9d2e2eb,indeed.com/r/Suresh- Kanagala/04b36892f9d2e2eb,True
+Location,Location,Hyderabad,Hyderabad,True
+Name,Name,Suresh Kanagala,Suresh Kanagala,True
+Skills,Skills,* Sincere and Hardworking in nature * Highly Dedicated towards work  * Efficient Individual and Team Player * Goal Oriented & Self Motivated  IT Literacy,* Sincere and Hardworking in nature * Highly Dedicated towards work,False
+Location,Location,Bangalore,Bangalore,True
+College Name,College Name,Sindhi High School,Sindhi High School,True
+Degree,Degree,C.B.S.E.,C.B.S.E.,True
+Location,Location,Bangalore,Bangalore,True
+College Name,College Name,Pre University Education,Pre University Education,True
+Location,Location,Bangalore,Bangalore,True
+College Name,College Name,Atria Institute of Technology,Atria Institute of Technology,True
+Degree,Degree,B.E. in CSE,B.E. in CSE,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Location,Location,Bangalore,Bangalore,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Designation,Designation,Team member,Team member,True
+Email Address,Email Address,indeed.com/r/Ayesha-B/b2985be284dee3d6,indeed.com/r/Ayesha-B/b2985be284dee3d6,True
+Location,Location,Bangalore,Bangalore,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Designation,Designation,Team member,Team member,True
+Name,Name,Ayesha B,Ayesha B,True
+Graduation Year,Graduation Year,2015,2015,True
+College Name,College Name,ITM University Gwalior,ITM University Gwalior,True
+Degree,Degree,Bachelor of Engineering in Mechanical Eng,Bachelor of Engineering in Mechanical Eng,True
+Graduation Year,Graduation Year,2015,2015,True
+Graduation Year,Graduation Year,2015,2015,True
+Companies worked at,Companies worked at,INFOSYS LIMITED,INFOSYS LIMITED,True
+Companies worked at,Companies worked at,INFOSYS LIMITED,INFOSYS LIMITED,True
+Designation,Designation,JAVA Developer/Senior Systems Engineer,JAVA Developer/Senior Systems Engineer,True
+Location,Location,Itarsi,Itarsi,True
+Companies worked at,Companies worked at,INFOSYS LIMITED,INFOSYS LIMITED,True
+Designation,Designation,JAVA Developer/Senior Systems Engineer,JAVA Developer/Senior Systems Engineer,True
+Name,Name,Rohit Bijlani,Rohit Bijlani,True
+Skills,Skills,"AUDITING (Less than 1 year), CFA (Less than 1 year), DERIVATIVES (Less than 1 year), FINANCIAL ANALYST (Less than 1 year), FINANCIAL STATEMENT ANALYSIS (Less than 1 year)","AUDITING (Less than 1 year), CFA (Less than 1 year), DERIVATIVES (Less than 1 year), FINANCIAL ANALYST (Less than 1 year), FINANCIAL STATEMENT ANALYSIS (Less than 1 year)",True
+Designation,Designation,Microsoft Office Suite - Expert,Microsoft Office Suite - Expert,True
+Email Address,Email Address,indeed.com/r/Siddharth- Choudhary/19d56a964e37fa1a,indeed.com/r/Siddharth- Choudhary/19d56a964e37fa1a,True
+Location,Location,Hyderabad,Hyderabad,True
+Designation,Designation,Microsoft Office Suite - Expert,Microsoft Office Suite - Expert,True
+Name,Name,Siddharth Choudhary,Siddharth Choudhary,True
+Skills,College Name,ON  10 Skill Sets • Quick learner and team pl,Ganapathi High School Padubidri,False
+College Name,College Name,BE  NMAM Institute of Techno,Ganapathi High School Padubidri,False
+Skills,College Name,s'  9 Computer Languages Known: • C programming basics • Core java • SQL/P,Ganapathi High School Padubidri,False
+Companies worked at,College Name,Infosys,Ganapathi High School Padubidri,False
+Designation,College Name,trining,Ganapathi High School Padubidri,False
+Years of Experience,College Name,3 months,Ganapathi High School Padubidri,False
+Email Address,Email Address,indeed.com/r/Shraddha-Achar/ d6d4e3c0237ccc6c,indeed.com/r/Shraddha-Achar/ d6d4e3c0237ccc6c,True
+Location,College Name,Mathura,Ganapathi High School Padubidri,False
+Name,Name,Shraddha Achar,Shraddha Achar,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Skills,Companies worked at,"Languages: Core Java, Go Lang, Data Structures & Algorithms, Oracle PL-SQL programming, Sales Force with APEX. Tools: RADTool, Jdeveloper, NetBeans, Eclipse, SQL developer, PL/SQL Developer, WinSCP, Putty Web Technologies: JavaScript, XML, HTML, Webservice  Operating Systems: Linux, Windows Version control system SVN & Git-Hub Databases: Oracle Middleware: Web logic, OC4J Product FLEXCUBE: Oracle FLEXCUBE Versions 10.x, 11.x and 12.x",Oracle,False
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Skills,Companies worked at,"APEX. (Less than 1 year), Data Structures (3 years), FLEXCUBE (5 years), Oracle (5 years), Algorithms (3 years)",Oracle,False
+Graduation Year,Graduation Year,2012,2012,True
+College Name,College Name,Adithya Institute of Technology,Adithya Institute of Technology,True
+Degree,Degree,B.E in Computer Science Engineering,B.E in Computer Science Engineering,True
+Graduation Year,Graduation Year,2012,2012,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Designation,Designation,Associate Consultant,Associate Consultant,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Designation,Designation,Staff Consultant,Staff Consultant,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Designation,Designation,Senior Consultant,Senior Consultant,True
+Companies worked at,Companies worked at,Cloud Lending Solutions,Cloud Lending Solutions,True
+Designation,Designation,Senior Software Engineer,Senior Software Engineer,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Companies worked at,Companies worked at,Oracle,Oracle,True
+Companies worked at,Companies worked at,Cloud Lending Solutions,Cloud Lending Solutions,True
+Email Address,Email Address,indeed.com/r/Govardhana-K/ b2de315d95905b68,indeed.com/r/Govardhana-K/ b2de315d95905b68,True
+Location,Location,Bengaluru,Bengaluru,True
+Designation,Designation,Senior Software Engineer,Senior Software Engineer,True
+Name,Name,Govardhana K,Govardhana K,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Skills,Skills,"• Programming Languages: Python, XML • Database: Maria-DB, sql • Cisco Monitoring Tools: EM7 • Operating Systems: Windows/XP • Reporting Tools: Vportal, Splunk • Application & Web Servers: Sciencelogic (EM7), Syslog sender, Relay server. • Data Structure Knowledge: Intermediate","• Programming Languages: Python, XML • Database: Maria-DB, sql •",False
+Skills,Skills,"Database (3 years), Python (3 years), Splunk (Less than 1 year), SQL (3 years), xml (3 years)","Database (3 years), Python (3 years), Splunk (Less than 1 year), SQL (3 years), xml (3 years)",True
+Graduation Year,Graduation Year,2012,2012,True
+College Name,College Name,rajasthan University,rajasthan University,True
+College Name,College Name,Compucom Insitute of Information Technology,Compucom Insitute of Information Technology,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Designation,Designation,Team Member,Team Member,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Designation,Designation,Team Member,Team Member,True
+Location,Location,Bengaluru,Bengaluru,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Email Address,Skills,Indeed: indeed.com/r/Kasturika- Borah/9e71468914b38ee8,"• Programming Languages: Python, XML • Database: Maria-DB, sql •",False
+Location,Location,Bengaluru,Bengaluru,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Designation,Designation,Team Member,Team Member,True
+Name,Name,Kasturika Borah,Kasturika Borah,True
+Location,Location,Patna,Patna,True
+College Name,College Name,Magadh univercity,Magadh univercity,True
+Degree,Degree,BSc in Computer,BSc in Computer,True
+Location,Location,Patna,Patna,True
+College Name,College Name,Magadh univercity,Magadh univercity,True
+Degree,Degree,BSc in Math,BSc in Math,True
+Location,Location,Patna,Patna,True
+Companies worked at,Companies worked at,Microsoft,Microsoft,True
+Designation,Designation,Data Entry Operator,Data Entry Operator,True
+Email Address,Email Address,indeed.com/r/Krishna-Prasad/56249a1d0efd3fca,indeed.com/r/Krishna-Prasad/56249a1d0efd3fca,True
+Location,Location,Patna,Patna,True
+Name,Name,Krishna Prasad,Krishna Prasad,True
+Skills,Skills,Consistent,"Destructive Testing (Less than 1 year), FORGE (Less than 1 year), Non-Destructive (Less than 1 year), Non-Destructive Testing (Less than 1 year), quality control (Less than 1 year)",False
+Skills,Skills,Hard working,"Destructive Testing (Less than 1 year), FORGE (Less than 1 year), Non-Destructive (Less than 1 year), Non-Destructive Testing (Less than 1 year), quality control (Less than 1 year)",False
+Skills,Skills,Flexible,"Destructive Testing (Less than 1 year), FORGE (Less than 1 year), Non-Destructive (Less than 1 year), Non-Destructive Testing (Less than 1 year), quality control (Less than 1 year)",False
+Skills,Skills,Ability to quick grasp the concepts,"Destructive Testing (Less than 1 year), FORGE (Less than 1 year), Non-Destructive (Less than 1 year), Non-Destructive Testing (Less than 1 year), quality control (Less than 1 year)",False
+Skills,Skills,"Destructive Testing (Less than 1 year), FORGE (Less than 1 year), Non-Destructive (Less than 1 year), Non-Destructive Testing (Less than 1 year), quality control (Less than 1 year)","Destructive Testing (Less than 1 year), FORGE (Less than 1 year), Non-Destructive (Less than 1 year), Non-Destructive Testing (Less than 1 year), quality control (Less than 1 year)",True
+College Name,Skills,Hr. Sec. School,"Destructive Testing (Less than 1 year), FORGE (Less than 1 year), Non-Destructive (Less than 1 year), Non-Destructive Testing (Less than 1 year), quality control (Less than 1 year)",False
+Location,Location,Rajapalaiyam,Rajapalaiyam,True
+College Name,Skills,Tamil Nadu Board Of Education,"Destructive Testing (Less than 1 year), FORGE (Less than 1 year), Non-Destructive (Less than 1 year), Non-Destructive Testing (Less than 1 year), quality control (Less than 1 year)",False
+College Name,College Name,Velammal Engineering College,Velammal Engineering College,True
+Degree,Degree,B E in Production Engineering,B E in Production Engineering,True
+Companies worked at,Companies worked at,Infosys Limited,Infosys Limited,True
+Companies worked at,Companies worked at,Infosys Limited,Infosys Limited,True
+Designation,Designation,Systems Engineer,Systems Engineer,True
+Email Address,Email Address,indeed.com/r/Karthihayini- C/627254c443836b3c,indeed.com/r/Karthihayini- C/627254c443836b3c,True
+Location,Location,Rajapalaiyam,Rajapalaiyam,True
+Companies worked at,Companies worked at,Infosys Limited,Infosys Limited,True
+Companies worked at,Companies worked at,Infosys Limited,Infosys Limited,True
+Designation,Designation,Systems Engineer,Systems Engineer,True
+Name,Name,Karthihayini C,Karthihayini C,True
+Email Address,Email Address,indeed.com/r/Nitin-Verma/b9e8520147f728d2,indeed.com/r/Nitin-Verma/b9e8520147f728d2,True
+Location,Location,Pune,Pune,True
+Companies worked at,Companies worked at,Pune University,Pune University,True
+Location,Location,Pune,Pune,True
+Degree,Degree,Bachelor of Engineering in EnTC,Bachelor of Engineering in EnTC,True
+Email Address,Email Address,indeed.com/r/Nitin-Verma/b9e8520147f728d2,indeed.com/r/Nitin-Verma/b9e8520147f728d2,True
+Location,Location,Pune,Pune,True
+Designation,Designation,Assisting Microsoft Partners - Exchange Online and Office,Assisting Microsoft Partners - Exchange Online and Office,True
+Name,Name,Nitin Verma,Nitin Verma,True
+Skills,Skills,Microsoft office and java (Less than 1 year),Microsoft office and java (Less than 1 year),True
+Companies worked at,Skills,Microsoft,Microsoft office and java (Less than 1 year),False
+College Name,College Name,chandigarh university,chandigarh university,True
+Degree,Skills,pass 12 in medical,Microsoft office and java (Less than 1 year),False
+Companies worked at,Skills,Microsoft,Microsoft office and java (Less than 1 year),False
+Designation,Skills,online job in home,Microsoft office and java (Less than 1 year),False
+Email Address,Email Address,indeed.com/r/Shiksha-Bhatnagar/70e68b28225ca499,indeed.com/r/Shiksha-Bhatnagar/70e68b28225ca499,True
+Location,Skills,chnadigarh,Microsoft office and java (Less than 1 year),False
+Name,Name,Shiksha Bhatnagar,Shiksha Bhatnagar,True
+Skills,Skills,"Application Development, Software Testing","Application Development, Software Testing",True
+College Name,College Name,"VSSUT,burla","VSSUT,burla",True
+Degree,Degree,Electrical engineering,Electrical engineering,True
+Companies worked at,Companies worked at,Microsoft,Microsoft,True
+Designation,Designation,App develop,App develop,True
+Email Address,Email Address,indeed.com/r/Sameer-Kujur/0771f65bfa7aff96,indeed.com/r/Sameer-Kujur/0771f65bfa7aff96,True
+Location,Location,Orrisha,Orrisha,True
+Name,Name,Sameer Kujur,Sameer Kujur,True
+Skills,Skills,"Testing (10+ years), Program Management (10+ years), Automation Testing (10+ years), Selenium Webdriver (4 years), Project Management (10+ years), Java (10+ years), AWS (10+ years), Cloud Computing (4 years)","Testing (10+ years), Program Management (10+ years), Automation Testing (10+ years), Selenium Webdriver (4 years), Project Management (10+ years), Java (10+ years), AWS (10+ years), Cloud Computing (4 years)",True
+College Name,College Name,Kakatiya University,Kakatiya University,True
+Degree,Degree,BSC in Computer science,BSC in Computer science,True
+College Name,College Name,Nagarjuna University,Nagarjuna University,True
+Degree,Degree,MSC in Computer science,MSC in Computer science,True
+Designation,Designation,Sr. Test Manager,Sr. Test Manager,True
+Location,Location,Mumbai,Mumbai,True
+Designation,Designation,QA Manager,QA Manager,True
+Email Address,Email Address,indeed.com/r/Srinivas-VO/39c80e42cb6bc97f,indeed.com/r/Srinivas-VO/39c80e42cb6bc97f,True
+Email Address,Email Address,indeed.com/r/Srinivas-VO/39c80e42cb6bc97f,indeed.com/r/Srinivas-VO/39c80e42cb6bc97f,True
+Location,Location,Mumbai,Mumbai,True
+Designation,Designation,Sr. Test Manager,Sr. Test Manager,True
+Name,Name,Srinivas VO,Srinivas VO,True
+Skills,Skills,"CRM (3 years), DATABASE (3 years), ORACLE (3 years), Tosca (3 years), Automation Testing (3 years), Selenium (1 year), Core Java (1 year)  ADDITIONAL INFORMATION  Key Skills: ❖ Software tools: IBM Rational Collaborative Lifecycle Management ❖ Testing Tool: IBM Rational Quality Management on Jazz Server ❖ Test Automation Tools: TOSCA, Selenium ❖ Programming Language: Core Java ❖ IDE: Eclipse ❖ Database: Oracle, EDB, Sqlserver ❖ Database Tools: SQL Developer, Toad, Tora ❖ Software tools: Filezilla, MobaXterm, Putty, Office tools ❖ Platforms: Windows, UNIX ❖ Domain Software Knowledge: Finacle Core Banking Solution, Finacle CRM Solution.  Skills: Fast learner, leadership quality, team player, presentation skills, work devotee, punctual, good communication and listening skills.","Fast learner, leadership quality, team player, presentation skills, work devotee, punctual, good communication and listening skills.",False
+Graduation Year,Skills,2005,"Fast learner, leadership quality, team player, presentation skills, work devotee, punctual, good communication and listening skills.",False
+College Name,College Name,Lucknow Public Inter College,Lucknow Public Inter College,True
+College Name,Skills,2011,"Fast learner, leadership quality, team player, presentation skills, work devotee, punctual, good communication and listening skills.",False
+College Name,College Name,Saroj Institute of Technology & Management,Saroj Institute of Technology & Management,True
+Email Address,Email Address,indeed.com/r/Mayank-Shukla/3c6042bd141ad353,indeed.com/r/Mayank-Shukla/3c6042bd141ad353,True
+Degree,Degree,B.Tech. in Information Technology,B.Tech. in Information Technology,True
+Graduation Year,Graduation Year,2014,2014,True
+Location,Location,Bengaluru,Bengaluru,True
+College Name,College Name,Manipal University,Manipal University,True
+Degree,Degree,MBA in Banking and Finance,MBA in Banking and Finance,True
+Companies worked at,Companies worked at,Infosys Ltd/Edgeverve Systems Ltd,Infosys Ltd/Edgeverve Systems Ltd,True
+Location,Location,Bengaluru,Bengaluru,True
+Email Address,Email Address,indeed.com/r/Mayank-Shukla/3c6042bd141ad353,indeed.com/r/Mayank-Shukla/3c6042bd141ad353,True
+Location,Location,Bengaluru,Bengaluru,True
+Companies worked at,Companies worked at,Infosys Ltd/Edgeverve Systems Ltd,Infosys Ltd/Edgeverve Systems Ltd,True
+Designation,Designation,Test Analyst,Test Analyst,True
+Name,Name,Mayank Shukla,Mayank Shukla,True
+Skills,Skills,"Programming Languages Python, TCL, Power Query, SQL, Shell Scripting, C# Concepts Networking, WAAS (Wan Optimization), WAAS on Router, WAE(Wide Area Engine), WCCP Protocol, Automation Framework ATS (Automated Test System), Selenium Testing Framework IDE(Integrated Development Environment) Eclipse, Pycharm, Pydev[Plugin for eclipse IDE] Software Eclipse CDETS & Rally (Bug Tracking), eARMS (Regression testing), ACME(Versioning), TIMS(Reporting), HTMLTestRunner, Power Query(Automation), ARAS PLM(Product Lifecycle Management), AML Studio (adaptive markup language)  Operating Systems Windows XP/10, Linux","optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)",False
+Years of Experience,Skills,4 years,"optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)",False
+Years of Experience,Skills,4 years,"optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)",False
+Years of Experience,Skills,4 years,"optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)",False
+Years of Experience,Skills,4 years,"optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)",False
+Skills,Skills,"optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)","optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)",True
+Graduation Year,Graduation Year,2007,2007,True
+College Name,College Name,Day Adventist Matric Hr.Sec School,Day Adventist Matric Hr.Sec School,True
+Graduation Year,Graduation Year,2011,2011,True
+College Name,College Name,ANNA University,ANNA University,True
+Degree,Degree,B.E in CSE,B.E in CSE,True
+Companies worked at,Companies worked at,Cisco Systems,Cisco Systems,True
+Graduation Year,Graduation Year,2011,2011,True
+Companies worked at,Companies worked at,Automation & Testing,Automation & Testing,True
+Companies worked at,Companies worked at,Cisco Systems,Cisco Systems,True
+Companies worked at,Companies worked at,Automation & Testing,Automation & Testing,True
+Companies worked at,Companies worked at,Cisco Systems,Cisco Systems,True
+Companies worked at,Companies worked at,Automation & Testing,Automation & Testing,True
+Companies worked at,Companies worked at,Automation & Testing,Automation & Testing,True
+Designation,Designation,Lead Engineer,Lead Engineer,True
+Companies worked at,Companies worked at,Cisco Systems,Cisco Systems,True
+Companies worked at,Companies worked at,Automation & Testing,Automation & Testing,True
+Designation,Designation,Lead Engineer,Lead Engineer,True
+Years of Experience,Skills,4 years,"optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)",False
+Email Address,Skills,Indeed: indeed.com/r/Yasothai-Jayaramachandran/ c36e76b64d9f477f,"optimization (2 years), Python (4 years), router (4 years), TCL (4 years), Testing (4 years)",False
+Location,Location,Chennai,Chennai,True
+Companies worked at,Companies worked at,Automation & Testing,Automation & Testing,True
+Designation,Designation,Lead Engineer,Lead Engineer,True
+Name,Name,Yasothai Jayaramachandran,Yasothai Jayaramachandran,True
+Skills,Skills,"excel, powerpoint, vlookup, formula, filters, paint, recruitment, (1 year)","excel, powerpoint, vlookup, formula, filters, paint, recruitment, (1 year)",True
+Graduation Year,Graduation Year,2013,2013,True
+College Name,College Name,"New Horizon College, (Bangalore University)","New Horizon College, (Bangalore University)",True
+Degree,Degree,BBM in education,BBM in education,True
+Graduation Year,Graduation Year,2016,2016,True
+College Name,College Name,Visvesvaraya Technological University,Visvesvaraya Technological University,True
+Degree,Degree,MBA,MBA,True
+Graduation Year,Graduation Year,2016,2016,True
+Designation,Designation,HR Executive,HR Executive,True
+Degree,Degree,MBA,MBA,True
+Graduation Year,Graduation Year,2016,2016,True
+Graduation Year,Graduation Year,2016,2016,True
+Graduation Year,Graduation Year,2016,2016,True
+Designation,Designation,HR Executive,HR Executive,True
+Companies worked at,Companies worked at,Founding Years Learning Solutions,Founding Years Learning Solutions,True
+Designation,Designation,HR Trainee Associate,HR Trainee Associate,True
+Email Address,Email Address,indeed.com/r/Madhava- Konjeti/964a277f6ace570c,indeed.com/r/Madhava- Konjeti/964a277f6ace570c,True
+Location,Location,Bengaluru,Bengaluru,True
+Designation,Designation,HR Executive,HR Executive,True
+Name,Name,Madhava Konjeti,Madhava Konjeti,True
+Graduation Year,Graduation Year,2013,2013,True
+Skills,Skills,"Active Directory (2 years), Microsoft office, Windows,End user computing (3 years)","Active Directory (2 years), Microsoft office, Windows,End user computing (3 years)",True
+College Name,College Name,Rajiv Gandhi Institute of Technology,Rajiv Gandhi Institute of Technology,True
+College Name,College Name,Al-Ameen PU College,Al-Ameen PU College,True
+Graduation Year,Graduation Year,2013,2013,True
+Location,Location,Bengaluru,Bengaluru,True
+College Name,College Name,Visveswaraiah Technological University,Visveswaraiah Technological University,True
+Degree,Degree,B.E in Electronics & Communication,B.E in Electronics & Communication,True
+Companies worked at,Companies worked at,Accenture,Accenture,True
+Companies worked at,Companies worked at,Accenture,Accenture,True
+Designation,Designation,IT Operations Analyst,IT Operations Analyst,True
+Location,Graduation Year,indeed.com/r/Mohamed-Ameen/ ba052bfa70e4c0b7,2013,False
+Location,Location,Bengaluru,Bengaluru,True
+Designation,Designation,System engineer,System engineer,True
+Name,Name,Mohamed Ameen,Mohamed Ameen,True
+Email Address,Email Address,indeed.com/r/Pavithra-M/26f392ec8251143b,indeed.com/r/Pavithra-M/26f392ec8251143b,True
+Skills,Skills,"ADOBE PHOTOSHOP (Less than 1 year), ANDROID (Less than 1 year), APPLICATION SOFTWARE (Less than 1 year), C++ (Less than 1 year), CSS (Less than 1 year)  ADDITIONAL INFORMATION  Technical skills:  • Programing Languages: C, C++ and JAVA.  • Databases: MySQL, SQL server (SQLyog)  • Web tools: HTML, CSS.  • Operating Systems: Windows (XP, 8, 8.1, 10), Ubuntu, fedora, Linux.","ADOBE PHOTOSHOP (Less than 1 year), ANDROID (Less than 1 year), APPLICATION SOFTWARE (Less than 1 year), C++ (Less than 1 year), CSS (Less than 1 year)",False
+Designation,Designation,internship,internship,True
+Companies worked at,Companies worked at,Infosys,Infosys,True
+Companies worked at,Companies worked at,Infosys,Infosys,True
+Designation,Designation,internship,internship,True
+Companies worked at,Companies worked at,Infosys,Infosys,True
+Location,Location,Bengaluru,Bengaluru,True
+Email Address,Email Address,indeed.com/r/Pavithra-M/26f392ec8251143b,indeed.com/r/Pavithra-M/26f392ec8251143b,True
+Location,Location,Bengaluru,Bengaluru,True
+Designation,Designation,internship,internship,True
+Companies worked at,Companies worked at,Infosys,Infosys,True
+Name,Name,Pavithra M,Pavithra M,True
+Skills,College Name,Ability to work with team. ❖ Good communication skills. ❖ Good inter-personal skills. ❖ Positive Attitude. ❖ Hard &amp; Smart Working. ❖ Building good relationship with people. ❖ Ability to work under tough situation. ❖ Self-Motiva,JAIN COLLEGE,False
+College Name,College Name,JAIN COLLEGE,JAIN COLLEGE,True
+Degree,Degree,B.COM,B.COM,True
+Companies worked at,Companies worked at,Microsoft,Microsoft,True
+Companies worked at,Companies worked at,Microsoft,Microsoft,True
+Companies worked at,Companies worked at,Microsoft,Microsoft,True
+Designation,Designation,Front Office Executive,Front Office Executive,True
+Email Address,Email Address,indeed.com/r/Divesh-Singh/a76ddf6e110a74b8,indeed.com/r/Divesh-Singh/a76ddf6e110a74b8,True
+Location,Location,Bengaluru,Bengaluru,True
+Name,Name,Divesh Singh,Divesh Singh,True
+College Name,College Name,Trinity engineering college,Trinity engineering college,True
+Degree,Degree,btech,btech,True
+Companies worked at,Companies worked at,"Microsoft,Infosis, Google","Microsoft,Infosis, Google",True
+Designation,Designation,software,software,True
+Companies worked at,Companies worked at,"Microsoft,Infosis, Google","Microsoft,Infosis, Google",True
+Designation,Designation,software,software,True
+Email Address,Email Address,indeed.com/r/Ramesh-chokkala/16d5fa56f8c19eb6,indeed.com/r/Ramesh-chokkala/16d5fa56f8c19eb6,True
+Location,Location,Telangana,Telangana,True
+Name,Name,Ramesh chokkala,Ramesh chokkala,True
+Skills,Skills,"DHCP (Less than 1 year), DNS (Less than 1 year), EXCHANGE (Less than 1 year), exchange (Less than 1 year), LAN (Less than 1 year)  ADDITIONAL INFORMATION  SKILLS:-  • Messaging: MS exchange, Lotus client and MS outlook issue coordination to user.  • Users / Share folders creation and permission assigning.  • Networking: TCP/IP, DNS, DHCP, and LAN/WAN.  • Monthly patching update activity and server owner approval / RFC follow-ups.","DHCP (Less than 1 year), DNS (Less than 1 year), EXCHANGE (Less than 1 year), exchange (Less than 1 year), LAN (Less than 1 year)",False
+College Name,College Name,inDR N.G.P ARTS AND SCIENCE COLLEGE,inDR N.G.P ARTS AND SCIENCE COLLEGE,True
+Degree,Degree,Bachelor of computer science in computer science,Bachelor of computer science in computer science,True
+Companies worked at,Companies worked at,Cisco,Cisco,True
+Designation,Designation,Certified Network Associate Training Program,Certified Network Associate Training Program,True
+Email Address,Email Address,indeed.com/r/Kowsick- Somasundaram/3bd9e5de546cc3c8,indeed.com/r/Kowsick- Somasundaram/3bd9e5de546cc3c8,True
+Location,Location,Erode,Erode,True
+Designation,Designation,Certified Network Associate Training Program,Certified Network Associate Training Program,True
+Name,Name,Kowsick Somasundaram,Kowsick Somasundaram,True

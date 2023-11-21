@@ -74,6 +74,7 @@ def trim_entity_spans(data: list) -> list:
 def train_test_split(data, test_size, random_state):
     random.Random(random_state).shuffle(data)
     test_idx = len(data) - math.floor(test_size * len(data))
+    print(test_idx)
     train_set = data[0:test_idx]
     test_set = data[test_idx:]
 
