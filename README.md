@@ -56,7 +56,10 @@ The approach used for this project is as follows:
     ```bash
     python inference.py
     ```
-
+* Generate reports of the trained model
+    ```bash
+    python generate_reports.py
+    ```
 ## Results
 The results obtained from the trained model are as follows:
 - [train dataset results](logs/evaluate_train.log)

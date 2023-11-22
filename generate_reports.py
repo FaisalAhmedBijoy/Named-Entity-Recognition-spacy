@@ -49,7 +49,7 @@ def report_generation(model_pat,texts):
         for ent_text, ent_label in entities:
             pred_ent.append(ent_text)
             pred_label.append(ent_label)
-        print("Predicted entities",entities)
+        # print("Predicted entities",entities)
         ground_truth = ground_truth_values[i]
         row = []
         for truth in ground_truth:
@@ -58,7 +58,7 @@ def report_generation(model_pat,texts):
             ground_truth_value = text[start:end]
             found = False
             for ent_text, ent_label in entities:
-                print("Predicted Entity text & label and GT:",ent_text, ent_label, ground_truth_value)
+                # print("Predicted Entity text & label and GT:",ent_text, ent_label, ground_truth_value)
                 if ent_text == ground_truth_value and ent_label == entity_name:
                     row.append((entity_name, ent_label, ground_truth_value, ent_text, 'True'))
                     found = True
